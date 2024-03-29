@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Noto+Sans+Display&family=Courgette");
+
+$body-color: #063d74;
+$font-family-base: "Noto Sans Display", sans-serif;
+$body-bg: aliceblue;
+
+$navbar-light-color: #6175b6;
+$navbar-light-active-color: #6175b6;
+$navbar-light-hover-color: #2b3453;
+$navbar-light-brand-color: #6175b6;
+$navbar-light-disabled-color: #6175b6;
+
+$display-font-sizes: (
+  1: 6rem,
+  2: 4.5rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem,
+);
+
+@import "~bootstrap/scss/bootstrap.scss";
