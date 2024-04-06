@@ -17,11 +17,19 @@ const Ceremony = () => {
             </p>
           </div>
         </div>
-        <p>
-          Parkolási lehetőségek: Batthyányi utcáról vagy az Ady Endre útról a templom térre fordulva vagy a kisfaludy utcáról nyiló parkoló. A környéken a parkolás ingyenes 
-                  Megközelítés tömegközlekedéssel:
-                  A közelben áll meg az 50es és a 42es villamos, valamint a  151, 148, 68as busz
-        </p>
+        <div>
+          <h6>Parkolás</h6>
+          <p>
+            Autóval a Batthyányi utcáról vagy a Templom térre lehet fordulni,
+            vagy a Kisfaludy utcáról nyíló parkoló lehet alkalmas. A környéken a
+            parkolás ingyenes.
+          </p>
+          <h6>Tömegközlekedés</h6>
+          <p>
+            A közelben áll meg a Határ útról induló 50-es és a 42-es villamos,
+            valamint a Kőbánya-Kispestről induló 151, 148, 68-as számú busz.
+          </p>
+        </div>
       </Col>
       <Col lg={6} className="venue-map">
         <Ratio aspectRatio={"4x3"}>

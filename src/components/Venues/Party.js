@@ -15,10 +15,17 @@ const Party = () => {
             <p className="text-uppercase small">Budapest 1221, Jósika u. 14.</p>
           </div>
         </div>
-        <p>
-                  Parkolás:
-          A tangazdaságon belül ingyenesen van lehetőség a parkolásra
-        </p>
+        <div>
+          <h6>Parkolás</h6>
+          <p>A tangazdaságon belül ingyenesen van lehetőség a parkolásra.</p>
+        </div>
+        <div>
+          <h6>Tömegközlekedés</h6>
+          <p>
+            251, 251E, 251A Alkotmány utcai megálló. Az éjszakai járatok a
+            Savoyai Jenő térről indulnak - 973 és 941-es busz.
+          </p>
+        </div>
       </Col>
       <Col lg={6} className="venue-map">
         <Ratio aspectRatio={"4x3"}>

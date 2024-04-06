@@ -20,7 +20,6 @@ const Schedule = () => {
             <div className="timeline-content">
               <FontAwesomeIcon icon={faChurch} />
               <h4>Templomi szertartás</h4>
-              <p>Hamarosan bővül...</p>
             </div>
           </div>
           {/* <div className="timeline-row">
@@ -33,7 +32,7 @@ const Schedule = () => {
           <div className="timeline-row">
             <div className="timeline-content">
               {/* <FontAwesomeIcon icon={faUtensils} /> */}
-              <h4>Hamarosan bővül...</h4>
+              <h4>Részletek hamarosan...</h4>
             </div>
           </div>
         </div>
