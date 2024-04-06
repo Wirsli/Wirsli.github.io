@@ -23,19 +23,16 @@ const Schedule = () => {
               <p>Hamarosan bővül...</p>
             </div>
           </div>
-          <div className="timeline-row">
-            <div className="timeline-time">
-              18:00<small>Július 20</small>
-            </div>
+          {/* <div className="timeline-row">
             <div className="timeline-content">
               <FontAwesomeIcon icon={faMugHot} />
               <h4>Vendégvárás kezdete</h4>
               <p>Hamarosan bővül...</p>
             </div>
-          </div>
+          </div> */}
           <div className="timeline-row">
             <div className="timeline-content">
-              <FontAwesomeIcon icon={faUtensils} />
+              {/* <FontAwesomeIcon icon={faUtensils} /> */}
               <h4>Hamarosan bővül...</h4>
             </div>
           </div>
