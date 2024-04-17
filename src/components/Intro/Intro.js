@@ -13,8 +13,9 @@ const Intro = () => {
           </h1>
           <h2 className="text-white">2024. 07. 20.</h2>
           <p className="text-white mt-3 text-center lead">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Üdvözlünk az esküvői weboldalunkon! Ez az oldal arra szolgál, hogy
+            megosszuk veletek az esküvőnk részleteit, és segítsen nektek
+            tervezni az utazást és az itt töltött időt.
           </p>
           <Button
             href="#response-form"

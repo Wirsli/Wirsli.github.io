@@ -11,7 +11,7 @@ const Ceremony = () => {
         <div className="venue-location">
           <FontAwesomeIcon icon={faLocationDot} />
           <div>
-            <h5>Kispesti Nagyboldogasszony templom</h5>
+            <h5>Kispesti Nagyboldogasszony Templom</h5>
             <p className="text-uppercase small">
               Budapest 1191, Templom tér 21.
             </p>
@@ -20,14 +20,14 @@ const Ceremony = () => {
         <div>
           <h6>Parkolás</h6>
           <p>
-            Autóval a Batthyányi utcáról vagy a Templom térre lehet fordulni,
-            vagy a Kisfaludy utcáról nyíló parkoló lehet alkalmas. A környéken a
-            parkolás ingyenes.
+            A Batthyányi utcáról és a Kisfaludy utcáról is nyílnak parkolók a
+            Templom tér felé. A környéken a parkolás ingyenes.
           </p>
           <h6>Tömegközlekedés</h6>
           <p>
-            A közelben áll meg a Határ útról induló 50-es és a 42-es villamos,
-            valamint a Kőbánya-Kispestről induló 151, 148, 68-as számú busz.
+            A közelben áll meg a Határ útról induló 50-es és 42-es villamos,
+            valamint a Kőbánya-Kispest felől érkező 151, 148 és 68-as számú
+            busz.
           </p>
         </div>
       </Col>

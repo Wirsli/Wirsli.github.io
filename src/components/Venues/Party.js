@@ -17,13 +17,14 @@ const Party = () => {
         </div>
         <div>
           <h6>Parkolás</h6>
-          <p>A tangazdaságon belül ingyenesen van lehetőség a parkolásra.</p>
+          <p>A tangazdaságon belül van lehetőség a parkolásra.</p>
         </div>
         <div>
           <h6>Tömegközlekedés</h6>
           <p>
-            251, 251E, 251A Alkotmány utcai megálló. Az éjszakai járatok a
-            Savoyai Jenő térről indulnak - 973 és 941-es busz.
+            A legközelebb a 251, 251E, 251A Alkotmány utcai megállója esik. Az
+            éjszakai járatok a Savoyai Jenő térről indulnak - 973 és 941-es
+            busz.
           </p>
         </div>
       </Col>
