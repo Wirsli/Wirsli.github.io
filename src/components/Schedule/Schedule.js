@@ -7,6 +7,7 @@ import {
   faUtensils,
   faCakeCandles,
   faMusic,
+  faGift,
 } from "@fortawesome/free-solid-svg-icons";
 
 const Schedule = () => {
@@ -35,8 +36,16 @@ const Schedule = () => {
               <h4>Vendégvárás kezdete</h4>
               <p>
                 A tangazdaság 17 órától fogadja a kedves vendégeket, de nem
-                szükséges sietni. Aki hoz ajándékot, az kérjük itt adja át.
+                szükséges sietni.
               </p>
+            </div>
+          </div>
+          <div className="timeline-row">
+            <div className="timeline-time">18:15</div>
+            <div className="timeline-content">
+              <FontAwesomeIcon icon={faGift} />
+              <h4>A pár érkezése</h4>
+              <p>Kérjük, hogy aki nászajándékot hoz, itt adja át.</p>
             </div>
           </div>
           <div className="timeline-row">

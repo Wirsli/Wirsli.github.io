@@ -31,6 +31,8 @@ h5 {
 
 .intro {
   background: url("embroidery.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
 }
 .intro-overlay {
